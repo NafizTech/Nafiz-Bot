@@ -1,4 +1,5 @@
-This bot is named The Nafiz-Bot which is a Rainbow role bot; It Function's as a Role-Bot system Commands- -create to start creating the pallet which will show how to create it. -choose - to choose a color which the person can find on google in the form of a hex code. -colors - to see which colors the person has already chosen . -deletecolor - to delete a color from -colors. -finish - this command will end the process, and send the pallet to the choose pallet menu.
+This bot is named The Nafiz-Bot which is a Rainbow role bot; Prefix - ( $ )
+ It Function's as a Role-Bot system Commands- -create to start creating the pallet which will show how to create it. -choose - to choose a color which the person can find on google in the form of a hex code. -colors - to see which colors the person has already chosen . -deletecolor - to delete a color from -colors. -finish - this command will end the process, and send the pallet to the choose pallet menu.
 
 Overall The Nafiz-Bot will have a lot of feature's which will be included when the Bot Join's the server. It will also have a help command for you to have a look at the function's it can do and guidlines, How to create the Role's on discord:
 
